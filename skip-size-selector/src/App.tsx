@@ -1,4 +1,3 @@
-import React from "react";
 import { Header } from "./components/Header";
 import { SkipSelector } from "./components/SkipSelector";
 import "./App.css";
