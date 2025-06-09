@@ -20,7 +20,7 @@ A modern, responsive React application for selecting skip sizes, built as part o
 - **Vite** - Fast build tool and dev server
 - **Tailwind CSS** - Utility-first CSS framework
 - **Axios** - HTTP client for API requests
-- **Lucide React** - Modern icon library
+- **HeroIcon** - Modern icon library
 
 ## 📁 Project Structure
 
